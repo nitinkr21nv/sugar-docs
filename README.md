@@ -42,8 +42,8 @@ Welcome to documentation for contributors and developers.
 ## Music Blocks
 
 * [Overview](https://github.com/sugarlabs/musicblocks#readme)
-* [Programming with Music Blocks](https://github.com/sugarlabs/musicblocks/blob/master/guide/README.md)
-* [Using Music Blocks](https://github.com/sugarlabs/musicblocks/blob/master/documentation/README.md)
+* [Programming with Music Blocks](https://github.com/sugarlabs/musicblocks/blob/master/Docs/guide/README.md)
+* [Using Music Blocks](https://github.com/sugarlabs/musicblocks/blob/master/Docs/documentation/README.md)
 * [Running Music Blocks](https://github.com/sugarlabs/musicblocks#running-music-blocks)
 * [Contributing](https://github.com/sugarlabs/musicblocks?tab=readme-ov-file#CONTRIBUTING)
 
