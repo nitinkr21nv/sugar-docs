@@ -27,7 +27,7 @@ available in private members, keep a private variable named **that**:
 Tools
 -----
 
-### </a>JSHint
+### JSHint
 
 Use JSHint <http://jshint.com/> to check for errors and make the
 source compatible with our coding conventions.  The jshint command is
